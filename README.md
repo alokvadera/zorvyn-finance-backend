@@ -17,7 +17,7 @@ A finance dashboard backend built for the Zorvyn screening task. Provides user m
 
 ```bash
 # Clone the project
-git clone <your-repo-url>
+git clone https://github.com/alokvadera/zorvyn-finance-backend
 cd zorvyn-finance-backend
 
 # Install dependencies
